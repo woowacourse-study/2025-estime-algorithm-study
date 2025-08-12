@@ -1,3 +1,13 @@
+/**
+ * 방문한 서로 다른 길(선분)의 개수를 반환합니다.
+ *
+ *
+ * https://school.programmers.co.kr/learn/courses/30/lessons/49994
+ *
+ * @param {string} dirs - U, D, R, L로 이루어진 이동 명령 문자열
+ * @returns {number} 방문한 서로 다른 길의 개수
+ */
+
 function solution(dirs) {
   let dx = 0;
   let dy = 0;
