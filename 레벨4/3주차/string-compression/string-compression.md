@@ -1,4 +1,4 @@
-## 35. Search Insert Position
+## 35. string-compression
 
 ## 풀이 날짜(9/15)
 
