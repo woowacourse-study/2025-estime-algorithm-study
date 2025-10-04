@@ -29,6 +29,10 @@
 
 ## 👥 스터디원
 
-| <img src="https://github.com/AppleMint98.png" width="100" /> | <img src="https://github.com/Db0111.png" width="100" /> | <img src="https://github.com/yeonnhuu.png" width="100" /> | <img src="https://github.com/jhan0121.png" width="100" /> | <img src="https://github.com/thgml05.png" width="100" /> | <img src="https://github.com/spoyodevelop.png" width="100" /> | <img src="https://github.com/hoyyChoi.png" width="100" /> | <img src="https://github.com/m-a-king.png" width="100" /> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [AppleMint98](https://github.com/AppleMint98) | [Db0111](https://github.com/Db0111) | [yeonnhuu](https://github.com/yeonnhuu) | [jhan0121](https://github.com/jhan0121) | [thgml05](https://github.com/thgml05) | [spoyodevelop](https://github.com/spoyodevelop) | [hoyyChoi](https://github.com/hoyyChoi) | [m-a-king](https://github.com/m-a-king) |
+| <img src="https://github.com/AppleMint98.png" width="125" /> | <img src="https://github.com/Db0111.png" width="125" /> | <img src="https://github.com/yeonnhuu.png" width="125" /> | <img src="https://github.com/jhan0121.png" width="125" /> |
+|:---:|:---:|:---:|:---:|
+| [AppleMint98](https://github.com/AppleMint98) | [Db0111](https://github.com/Db0111) | [yeonnhuu](https://github.com/yeonnhuu) | [jhan0121](https://github.com/jhan0121) |
+
+| <img src="https://github.com/thgml05.png" width="125" /> | <img src="https://github.com/spoyodevelop.png" width="125" /> | <img src="https://github.com/hoyyChoi.png" width="125" /> | <img src="https://github.com/m-a-king.png" width="125" /> |
+|:---:|:---:|:---:|:---:|
+| [thgml05](https://github.com/thgml05) | [spoyodevelop](https://github.com/spoyodevelop) | [hoyyChoi](https://github.com/hoyyChoi) | [m-a-king](https://github.com/m-a-king) |
